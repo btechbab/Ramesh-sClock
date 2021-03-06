@@ -1,2 +1,2 @@
 # Ramesh-sClock
-A Digital Analig Clock
+A Digital Analog Clock
